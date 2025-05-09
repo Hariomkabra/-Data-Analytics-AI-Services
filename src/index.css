@@ -14,7 +14,7 @@
   }
 
   h1, h2, h3, h4, h5, h6 {
-    @apply font-heading font-semibold leading-tight text-dark-200;
+    @apply font-heading font-semibold leading-tight text-dark-900;
   }
 
   h1 {
