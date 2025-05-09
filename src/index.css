@@ -78,7 +78,7 @@
   }
 
   .nav-link {
-    @apply text-dark-100 hover:text-primary-600 px-3 py-2 rounded-md text-sm font-medium transition-colors;
+    @apply text-dark-100 hover:text-primary-600 px-6 py-5 rounded-md text-sm font-medium transition-colors;
   }
 
   .nav-link-active {
